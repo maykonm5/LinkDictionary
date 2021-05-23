@@ -1,4 +1,4 @@
-LinkDIctionary 0.2p Readme  (2021/5/23)
+LinkDictionary 0.2p Readme  (2021/5/23)
 
 Features:
 
