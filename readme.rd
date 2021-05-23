@@ -9,7 +9,9 @@ This reads selected text in English or Default language of browser reading funct
 
 
 Tested on :
-Firefox 88.0.1 Windows 10 20H2 Locale ja-jp
+Firefox 88.0.1
+Windows 10 20H2
+Locale ja-jp
 
 
 License:
