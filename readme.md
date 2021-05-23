@@ -18,7 +18,7 @@ License:
 Copyright 2021 MayKonm Released under the MIT license https://opensource.org/licenses/mit-license.php
 
 
-*1 example:  
+*1 example:
 ```
 https://www.oxfordlearnersdictionaries.com/definition/english/%word%%qwtr%** 
 https://www.merriam-webster.com/dictionary/%word% 
