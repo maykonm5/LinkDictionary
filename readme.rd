@@ -18,9 +18,9 @@ Copyright 2021 MayKonm Released under the MIT license https://opensource.org/lic
 
 
 *1 example:
-https&#58;//www.oxfordlearnersdictionaries.com/definition/english/%word%%qwtr% 
-https&#58;//www.merriam-webster.com/dictionary/%word% 
-https&#58;//dictionary.cambridge.org/es/diccionario/ingles-espanol/%word% 
-https&#58;//dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%B9%81%E4%BD%93/%word%%qwtr% 
-https&#58;//dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/%word%%qwtr% 
-https&#58;//ejje.weblio.jp/content/%word%%qwtr%
+<!---->https://www.oxfordlearnersdictionaries.com/definition/english/%word%%qwtr% 
+<!---->https://www.merriam-webster.com/dictionary/%word% 
+<!---->https://dictionary.cambridge.org/es/diccionario/ingles-espanol/%word% 
+<!---->https://dictionary.cambridge.org/zhs/%E8%AF%8D%E5%85%B8/%E8%8B%B1%E8%AF%AD-%E6%B1%89%E8%AF%AD-%E7%B9%81%E4%BD%93/%word%%qwtr% 
+<!---->https://dictionary.cambridge.org/zht/%E8%A9%9E%E5%85%B8/%E8%8B%B1%E8%AA%9E-%E6%BC%A2%E8%AA%9E-%E7%B9%81%E9%AB%94/%word%%qwtr% 
+<!---->https://ejje.weblio.jp/content/%word%%qwtr%
