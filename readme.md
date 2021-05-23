@@ -1,7 +1,9 @@
 LinkDIctionary 0.2p Readme  (2021/5/23)
 
 Features:
+
 1.Open Dictionary
+
  This opens dictionary URL of the selected word.
  Hard coded URLs are samples of en-uk,en-us,es-es,zh-hans,zh-hant,ja-jp dicitonary sites*1.
 
