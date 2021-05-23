@@ -13,7 +13,6 @@ Features:
   Some unicode characters are detected as English.
 
 
-
 Tested on :
 
  Firefox 88.0.1
@@ -21,14 +20,11 @@ Tested on :
  Locale ja-jp
 
 
-
 License:
 
 Copyright 2021 MayKonm
 Released under the MIT license
 https://opensource.org/licenses/mit-license.php
-
-
 
 
 
