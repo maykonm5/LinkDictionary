@@ -1,0 +1,18 @@
+//Copyright 2021 MayKonm
+//This software is released under the MIT License, see LICENSE.
+
+{
+
+"manifest_version": 2, "name": "LinkDictionary", "version": "0.2p", "description": "Show the result of looking your selected word up dictionary in another tab", "homepage_url": "https://github.com/maykonm5", "icons": {
+  "48": "icons/icon48.ico"
+}, "permissions": [
+  "menus",
+  "http://*/*",
+  "https://*/*"
+], "background": {
+  "scripts": [ "linkdictionary_bg.js" ]
+}, "applications": {
+  "gecko": {
+    "id": "linkdictionary@linkdictionary.test"
+  }
+} }
